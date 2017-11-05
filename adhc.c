@@ -302,4 +302,4 @@ void increment(Node *node)
     }
    else
      increment(loc[ch]);
- }
+ } 
